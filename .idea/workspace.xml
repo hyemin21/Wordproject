@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b3d700c1-2a72-491d-acae-03896c65ad36" name="Changes" comment="add person class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Word.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,8 @@
       <workItem from="1663411460838" duration="214000" />
       <workItem from="1663411678091" duration="47000" />
       <workItem from="1663411757253" duration="623000" />
-      <workItem from="1663412935504" duration="3062000" />
+      <workItem from="1663412935504" duration="3437000" />
+      <workItem from="1663419382988" duration="62000" />
     </task>
     <task id="LOCAL-00001" summary="add person class">
       <created>1663413137238</created>
@@ -102,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663417062564</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add person class">
+      <created>1663417216517</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663417216517</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
