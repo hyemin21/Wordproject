@@ -1,4 +1,4 @@
-1|able|할 수 있는
+1|able|사과는 맛있다
 2|abortion|낙태
 1|about|약,쯤,경
 1|above|…보다 위에[위로]

@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b3d700c1-2a72-491d-acae-03896c65ad36" name="Changes" comment="add person class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ICRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ICRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/WordCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Word.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/WordCRUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/WordCRUD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +63,7 @@
       <workItem from="1663419382988" duration="124000" />
       <workItem from="1663419814202" duration="21000" />
       <workItem from="1663421877258" duration="61000" />
-      <workItem from="1663422044023" duration="2081000" />
+      <workItem from="1663422044023" duration="3443000" />
     </task>
     <task id="LOCAL-00001" summary="add person class">
       <created>1663413137238</created>
@@ -132,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663422077667</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add person class">
+      <created>1663426549237</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663426549237</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
