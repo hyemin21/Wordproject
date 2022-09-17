@@ -50,16 +50,6 @@ public class Word {
      1 *         electric    전기의, 전기를 생산하는
      2 *             pole    기둥, 장대
      */
-    /*@Override
-    public String toString() {
-
-        String slevel;
-        slevel = "";
-        for (int i = 0; i < level; i++) slevel += "*";
-        String str = String.format("%-3s", slevel);
-        String s = String.format("%15s", word) + "  " + meaning;
-        return super.toString();
-    }*/
 
     @Override
     public String toString() {
