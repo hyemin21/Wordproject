@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class WordManager {
+public class  WordManager {
     Scanner s = new Scanner(System.in);
     WordCRUD  wordCRUD;
     /*
@@ -41,6 +41,8 @@ public class WordManager {
     }
 
     public void start(){
+
+        wordCRUD.loadFile();
         while(true){
             int menu = selectMenu();
             if(menu == 0) break;
@@ -50,8 +52,21 @@ public class WordManager {
             else if(menu == 1) {
                 wordCRUD.listALL();
             }
-
-
+            else if(menu == 2) {
+                wordCRUD.searchLevel();
+            }
+            else if(menu == 3) {
+                wordCRUD.searchWord();
+            }
+            else if(menu == 5) {  //update 
+                wordCRUD.updateItem();
+            }
+            else if(menu == 6) {    //delete
+                wordCRUD.deleteItem();
+            }
+            else if(menu == 7) {    //delete
+                wordCRUD.saveFile();
+            }
         }
     }
 }

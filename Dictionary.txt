@@ -1,0 +1,33 @@
+1|able|할 수 있는
+2|abortion|낙태
+1|about|약,쯤,경
+1|above|…보다 위에[위로]
+1|abroad|해외에(서), 해외로
+1|absence|결석, 결근, 부재
+1|absolute|완전한, 완벽한
+2|absolutely|전적으로, 틀림없이(사실임을 강조함)
+1|black|검은
+2|blade|(칼·도구 등의) 날
+2|blame|…을 탓하다, … 책임[때문]으로 보다
+1|blanket|담요
+1|blind|눈이 먼, 맹인인
+1|block|(단단한) 사각형 덩어리
+1|blood|피, 혈액
+1|blow|(입으로) 불다
+1|blue|파란, 푸른
+1|board|판자, 널
+1|cloud|구름
+1|club|(특정한 활동∙스포츠 등을 위한) 클럽, 동호회
+1|clue|(범행의) 단서
+3|cluster|(함께 자라거나 나타나는) 무리, (작은 열매의) 송이
+1|coach|(스포츠 팀의) 코치
+3|coal|석탄
+3|coalition|(둘 이상의 정당으로 구성된) 연립 정부, 연정
+2|coast|해안
+1|coat|외투, 코트
+1|code|암호, 부호
+3|evaluation|평가, 사정(valuation); [수학] 값을 구함
+1|even|(예상 밖이나 놀라운 일을 나타내어) …도[조차]
+1|evening|저녁, 밤, 야간(오후 6시경부터 잠자리에 들 때까지의 시간)
+1|event|(특히 중요한) 사건[일]
+2|eventually|결국, 종내
