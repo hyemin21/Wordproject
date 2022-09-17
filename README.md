@@ -25,10 +25,12 @@
 
 [5. 단어 수정]
 
+<img width="270" alt="스크린샷 2022-09-18 오전 12 56 59" src="https://user-images.githubusercontent.com/112374399/190866128-5129fd47-d792-41d0-ad73-96bfdf8ed4a4.png">
 
-<img width="249" alt="스크린샷 2022-09-18 오전 12 02 44" src="https://user-images.githubusercontent.com/112374399/190865629-03f28673-80a8-4fab-82e1-4dd987d88e53.png">
 
 [6. 단어 삭제]
+
+<img width="249" alt="스크린샷 2022-09-18 오전 12 02 44" src="https://user-images.githubusercontent.com/112374399/190865629-03f28673-80a8-4fab-82e1-4dd987d88e53.png">
 
 
 <img width="588" alt="스크린샷 2022-09-18 오전 12 04 28" src="https://user-images.githubusercontent.com/112374399/190865633-9868c615-4451-4c20-b8e0-666e1d582ca1.png">
